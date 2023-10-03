@@ -1,2 +1,1 @@
-# airbnb_Vancouver
-Uma análise exploratória dos dados do airbnb sobre a cidade de Vancouver. Limpeza de dados, análises estatísticas, mapas interativos.
+[![author](https://img.shields.io/badge/author-daniel_arthur-red.svg)](https://www.linkedin.com/in/udanielarthur/) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/doc/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/uDanielArthur)
