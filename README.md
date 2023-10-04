@@ -10,7 +10,15 @@
 
 ## Vancouver
 
-Uma movimentada cidade portuária na costa oeste da Colúmbia Britânica, que está entre as cidades mais densas e etnicamente diversas do Canadá. Um local muito procurado para gravações de filmes, cercada por montanhas e um rico cenário artístico, teatral e musical. Neste projeto veremos quais percepções podem ser extraídos a partir de dados brutos. O foco dessa análise é localidade, preço, tipo de quarto, quais são as localidades mais caras, o que as pessoas estão procurando quando buscam o Airbnb, dispensando no momento a análise qualitativa sobre cada unidade disponível para aluguel.
+Vancouver por diversas vezes foi considerada a cidade com a melhor qualidade de vida do Canadá. O mais interessante disso tudo, é que o próprio Canadá já foi considerado o país com a melhor qualidade de vida do mundo. Em outras palavras, estamos falando da melhor cidade em um país com a melhor qualidade de vida do mundo. Nada mal para a cidade, nada mal para o Canadá.
+
+No verão, o clima é fresco e bastante úmido, e a temperatura raramente atinge os 30°C. No inverno, é mais comum que a temperatura chegue a zero graus. Se atingir temperatura negativa, não costuma passar de -10°C. É bastante raro escutar raios ou grandes trovoadas, ao contrário do que se está acostumado na área central e leste do Canadá.
+
+Este clima proporciona a Vancouver um dos maiores terminais de cruzeiro de passageiros do mundo. Principalmente entre os meses de maio a outubro, a cidade recebe navios diariamente, e a maioria deles tem endereço certo: chegar ao Alasca. Nos dias de maior movimento, em torno de 15 mil pessoas embarcam e desembarcam nos terminais de cruzeiros.
+
+Uma movimentada cidade portuária na costa oeste da Colúmbia Britânica, que está entre as cidades mais densas e etnicamente diversas do Canadá. Um local muito procurado para gravações de filmes, cercada por montanhas e um rico cenário artístico, teatral e musical.
+
+Neste notebook, analisaremos os dados referentes à cidade de Vancouver e ver quais percepções podem ser extraídos a partir de dados brutos.
 
 [Link do projeto no Colaboratory](https://colab.research.google.com/drive/1BUzY3HdlI8pr1apCBdH-dKYcQV2I66rM?usp=sharing)
 
